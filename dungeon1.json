@@ -67,7 +67,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/fachsimpler\/workadvmaps\/blob\/master\/riddle\/dungeon1.png"
+                 "value":"https:\/\/raw.githubusercontent.com\/fachsimpler\/workadvmaps\/master\/riddle\/dungeon1.png"
                 }],
          "type":"tilelayer",
          "visible":true,
