@@ -67,7 +67,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.dropbox.com\/s\/2w5y17mchdi05zw\/dungeon1.png?dl=0"
+                 "value":"http:\/\/bds.myftp.org\/dungeon1.png"
                 }],
          "type":"tilelayer",
          "visible":true,
