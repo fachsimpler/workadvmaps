@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":20,
  "infinite":false,
  "layers":[
@@ -60,7 +67,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/fachsimpler.github.io\/workadvmaps\/riddle\/dungeon1.json"
+                 "value":"https:\/\/github.com\/fachsimpler\/workadvmaps\/blob\/master\/riddle\/dungeon1.png"
                 }],
          "type":"tilelayer",
          "visible":true,
